@@ -9,6 +9,7 @@
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/hardikbatra345/Leetcode/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/hardikbatra345/Leetcode/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/hardikbatra345/Leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
+| [2582-minimum-score-of-a-path-between-two-cities](https://github.com/hardikbatra345/Leetcode/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -17,12 +18,14 @@
 | [2206-detonate-the-maximum-bombs](https://github.com/hardikbatra345/Leetcode/tree/master/2206-detonate-the-maximum-bombs) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/hardikbatra345/Leetcode/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/hardikbatra345/Leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
+| [2582-minimum-score-of-a-path-between-two-cities](https://github.com/hardikbatra345/Leetcode/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 ## Union Find
 |  |
 | ------- |
 | [2121-find-if-path-exists-in-graph](https://github.com/hardikbatra345/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/hardikbatra345/Leetcode/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/hardikbatra345/Leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
+| [2582-minimum-score-of-a-path-between-two-cities](https://github.com/hardikbatra345/Leetcode/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 ## Graph
 |  |
 | ------- |
@@ -35,6 +38,7 @@
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/hardikbatra345/Leetcode/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/hardikbatra345/Leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2455-node-with-highest-edge-score](https://github.com/hardikbatra345/Leetcode/tree/master/2455-node-with-highest-edge-score) |
+| [2582-minimum-score-of-a-path-between-two-cities](https://github.com/hardikbatra345/Leetcode/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 ## Array
 |  |
 | ------- |
