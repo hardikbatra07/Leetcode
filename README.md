@@ -52,6 +52,7 @@
 |  |
 | ------- |
 | [2206-detonate-the-maximum-bombs](https://github.com/hardikbatra345/Leetcode/tree/master/2206-detonate-the-maximum-bombs) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/hardikbatra345/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Geometry
 |  |
 | ------- |
@@ -90,8 +91,17 @@
 |  |
 | ------- |
 | [3579-maximum-possible-number-by-binary-concatenation](https://github.com/hardikbatra345/Leetcode/tree/master/3579-maximum-possible-number-by-binary-concatenation) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/hardikbatra345/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Enumeration
 |  |
 | ------- |
 | [3579-maximum-possible-number-by-binary-concatenation](https://github.com/hardikbatra345/Leetcode/tree/master/3579-maximum-possible-number-by-binary-concatenation) |
+## Recursion
+|  |
+| ------- |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/hardikbatra345/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+## Simulation
+|  |
+| ------- |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/hardikbatra345/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 <!---LeetCode Topics End-->
