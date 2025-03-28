@@ -69,6 +69,7 @@
 ## String
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/hardikbatra345/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/hardikbatra345/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 ## Topological Sort
 |  |
@@ -79,6 +80,7 @@
 | ------- |
 | [0135-candy](https://github.com/hardikbatra345/Leetcode/tree/master/0135-candy) |
 | [0435-non-overlapping-intervals](https://github.com/hardikbatra345/Leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0678-valid-parenthesis-string](https://github.com/hardikbatra345/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [2379-maximum-total-importance-of-roads](https://github.com/hardikbatra345/Leetcode/tree/master/2379-maximum-total-importance-of-roads) |
 ## Sorting
 |  |
@@ -114,4 +116,9 @@
 |  |
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/hardikbatra345/Leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0678-valid-parenthesis-string](https://github.com/hardikbatra345/Leetcode/tree/master/0678-valid-parenthesis-string) |
+## Stack
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/hardikbatra345/Leetcode/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
