@@ -48,6 +48,7 @@
 | [0435-non-overlapping-intervals](https://github.com/hardikbatra345/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0966-binary-subarrays-with-sum](https://github.com/hardikbatra345/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/hardikbatra345/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/hardikbatra345/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/hardikbatra345/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2151-the-time-when-the-network-becomes-idle](https://github.com/hardikbatra345/Leetcode/tree/master/2151-the-time-when-the-network-becomes-idle) |
 | [2206-detonate-the-maximum-bombs](https://github.com/hardikbatra345/Leetcode/tree/master/2206-detonate-the-maximum-bombs) |
@@ -58,6 +59,7 @@
 ## Math
 |  |
 | ------- |
+| [1370-count-number-of-nice-subarrays](https://github.com/hardikbatra345/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [2206-detonate-the-maximum-bombs](https://github.com/hardikbatra345/Leetcode/tree/master/2206-detonate-the-maximum-bombs) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/hardikbatra345/Leetcode/tree/master/3511-find-the-winning-player-in-coin-game) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/hardikbatra345/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -72,6 +74,7 @@
 | [0076-minimum-window-substring](https://github.com/hardikbatra345/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/hardikbatra345/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0966-binary-subarrays-with-sum](https://github.com/hardikbatra345/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
+| [1370-count-number-of-nice-subarrays](https://github.com/hardikbatra345/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/hardikbatra345/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/hardikbatra345/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/hardikbatra345/Leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
@@ -148,6 +151,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/hardikbatra345/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0966-binary-subarrays-with-sum](https://github.com/hardikbatra345/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/hardikbatra345/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/hardikbatra345/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/hardikbatra345/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/hardikbatra345/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Prefix Sum
@@ -155,6 +159,7 @@
 | ------- |
 | [0966-binary-subarrays-with-sum](https://github.com/hardikbatra345/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/hardikbatra345/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/hardikbatra345/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/hardikbatra345/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Binary Search
 |  |
