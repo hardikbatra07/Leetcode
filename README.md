@@ -85,6 +85,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/hardikbatra345/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/hardikbatra345/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0076-minimum-window-substring](https://github.com/hardikbatra345/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/hardikbatra345/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0678-valid-parenthesis-string](https://github.com/hardikbatra345/Leetcode/tree/master/0678-valid-parenthesis-string) |
@@ -135,6 +136,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/hardikbatra345/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0435-non-overlapping-intervals](https://github.com/hardikbatra345/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/hardikbatra345/Leetcode/tree/master/0678-valid-parenthesis-string) |
 ## Stack
@@ -167,4 +169,8 @@
 |  |
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/hardikbatra345/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+## Two Pointers
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/hardikbatra345/Leetcode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
