@@ -45,6 +45,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/hardikbatra345/Leetcode/tree/master/0011-container-with-most-water) |
 | [0057-insert-interval](https://github.com/hardikbatra345/Leetcode/tree/master/0057-insert-interval) |
 | [0135-candy](https://github.com/hardikbatra345/Leetcode/tree/master/0135-candy) |
 | [0435-non-overlapping-intervals](https://github.com/hardikbatra345/Leetcode/tree/master/0435-non-overlapping-intervals) |
@@ -102,6 +103,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/hardikbatra345/Leetcode/tree/master/0011-container-with-most-water) |
 | [0135-candy](https://github.com/hardikbatra345/Leetcode/tree/master/0135-candy) |
 | [0435-non-overlapping-intervals](https://github.com/hardikbatra345/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/hardikbatra345/Leetcode/tree/master/0678-valid-parenthesis-string) |
@@ -180,6 +182,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/hardikbatra345/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/hardikbatra345/Leetcode/tree/master/0011-container-with-most-water) |
 ## Binary Tree
 |  |
 | ------- |
