@@ -4,6 +4,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/hardikbatra345/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/hardikbatra345/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2206-detonate-the-maximum-bombs](https://github.com/hardikbatra345/Leetcode/tree/master/2206-detonate-the-maximum-bombs) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/hardikbatra345/Leetcode/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
@@ -13,6 +14,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/hardikbatra345/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/hardikbatra345/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2151-the-time-when-the-network-becomes-idle](https://github.com/hardikbatra345/Leetcode/tree/master/2151-the-time-when-the-network-becomes-idle) |
 | [2206-detonate-the-maximum-bombs](https://github.com/hardikbatra345/Leetcode/tree/master/2206-detonate-the-maximum-bombs) |
@@ -115,6 +117,7 @@
 ## Tree
 |  |
 | ------- |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/hardikbatra345/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/hardikbatra345/Leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
 ## Bit Manipulation
 |  |
@@ -174,4 +177,8 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/hardikbatra345/Leetcode/tree/master/0005-longest-palindromic-substring) |
+## Binary Tree
+|  |
+| ------- |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/hardikbatra345/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 <!---LeetCode Topics End-->
