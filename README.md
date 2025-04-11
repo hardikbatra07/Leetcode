@@ -46,6 +46,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/hardikbatra345/Leetcode/tree/master/0011-container-with-most-water) |
+| [0036-valid-sudoku](https://github.com/hardikbatra345/Leetcode/tree/master/0036-valid-sudoku) |
 | [0057-insert-interval](https://github.com/hardikbatra345/Leetcode/tree/master/0057-insert-interval) |
 | [0135-candy](https://github.com/hardikbatra345/Leetcode/tree/master/0135-candy) |
 | [0435-non-overlapping-intervals](https://github.com/hardikbatra345/Leetcode/tree/master/0435-non-overlapping-intervals) |
@@ -77,6 +78,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/hardikbatra345/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/hardikbatra345/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0036-valid-sudoku](https://github.com/hardikbatra345/Leetcode/tree/master/0036-valid-sudoku) |
 | [0076-minimum-window-substring](https://github.com/hardikbatra345/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/hardikbatra345/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0966-binary-subarrays-with-sum](https://github.com/hardikbatra345/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
@@ -193,4 +195,8 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/hardikbatra345/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/hardikbatra345/Leetcode/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
