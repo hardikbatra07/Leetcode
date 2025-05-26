@@ -46,6 +46,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/hardikbatra345/Leetcode/tree/master/0011-container-with-most-water) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/hardikbatra345/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0036-valid-sudoku](https://github.com/hardikbatra345/Leetcode/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/hardikbatra345/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0057-insert-interval](https://github.com/hardikbatra345/Leetcode/tree/master/0057-insert-interval) |
@@ -209,6 +210,7 @@
 | [0005-longest-palindromic-substring](https://github.com/hardikbatra345/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/hardikbatra345/Leetcode/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/hardikbatra345/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/hardikbatra345/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/hardikbatra345/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0142-linked-list-cycle-ii](https://github.com/hardikbatra345/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/hardikbatra345/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
