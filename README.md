@@ -52,6 +52,7 @@
 | [0073-set-matrix-zeroes](https://github.com/hardikbatra345/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/hardikbatra345/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0135-candy](https://github.com/hardikbatra345/Leetcode/tree/master/0135-candy) |
+| [0189-rotate-array](https://github.com/hardikbatra345/Leetcode/tree/master/0189-rotate-array) |
 | [0435-non-overlapping-intervals](https://github.com/hardikbatra345/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0883-car-fleet](https://github.com/hardikbatra345/Leetcode/tree/master/0883-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/hardikbatra345/Leetcode/tree/master/0907-koko-eating-bananas) |
@@ -71,6 +72,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/hardikbatra345/Leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/hardikbatra345/Leetcode/tree/master/0007-reverse-integer) |
+| [0189-rotate-array](https://github.com/hardikbatra345/Leetcode/tree/master/0189-rotate-array) |
 | [1370-count-number-of-nice-subarrays](https://github.com/hardikbatra345/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [2206-detonate-the-maximum-bombs](https://github.com/hardikbatra345/Leetcode/tree/master/2206-detonate-the-maximum-bombs) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/hardikbatra345/Leetcode/tree/master/3511-find-the-winning-player-in-coin-game) |
@@ -210,6 +212,7 @@
 | [0042-trapping-rain-water](https://github.com/hardikbatra345/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0142-linked-list-cycle-ii](https://github.com/hardikbatra345/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/hardikbatra345/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0189-rotate-array](https://github.com/hardikbatra345/Leetcode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/hardikbatra345/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/hardikbatra345/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 ## Binary Tree
