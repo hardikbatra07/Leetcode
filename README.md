@@ -59,6 +59,7 @@
 | [0907-koko-eating-bananas](https://github.com/hardikbatra345/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [0966-binary-subarrays-with-sum](https://github.com/hardikbatra345/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/hardikbatra345/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/hardikbatra345/Leetcode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1370-count-number-of-nice-subarrays](https://github.com/hardikbatra345/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/hardikbatra345/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2151-the-time-when-the-network-becomes-idle](https://github.com/hardikbatra345/Leetcode/tree/master/2151-the-time-when-the-network-becomes-idle) |
