@@ -65,6 +65,7 @@
 | [2151-the-time-when-the-network-becomes-idle](https://github.com/hardikbatra345/Leetcode/tree/master/2151-the-time-when-the-network-becomes-idle) |
 | [2206-detonate-the-maximum-bombs](https://github.com/hardikbatra345/Leetcode/tree/master/2206-detonate-the-maximum-bombs) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/hardikbatra345/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/hardikbatra345/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/hardikbatra345/Leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/hardikbatra345/Leetcode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3579-maximum-possible-number-by-binary-concatenation](https://github.com/hardikbatra345/Leetcode/tree/master/3579-maximum-possible-number-by-binary-concatenation) |
@@ -160,6 +161,7 @@
 ## Simulation
 |  |
 | ------- |
+| [2271-rearrange-array-elements-by-sign](https://github.com/hardikbatra345/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/hardikbatra345/Leetcode/tree/master/3511-find-the-winning-player-in-coin-game) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/hardikbatra345/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Dynamic Programming
@@ -218,6 +220,7 @@
 | [0189-rotate-array](https://github.com/hardikbatra345/Leetcode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/hardikbatra345/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/hardikbatra345/Leetcode/tree/master/0908-middle-of-the-linked-list) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/hardikbatra345/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Binary Tree
 |  |
 | ------- |
