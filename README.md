@@ -49,6 +49,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hardikbatra345/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0036-valid-sudoku](https://github.com/hardikbatra345/Leetcode/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/hardikbatra345/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/hardikbatra345/Leetcode/tree/master/0048-rotate-image) |
 | [0057-insert-interval](https://github.com/hardikbatra345/Leetcode/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/hardikbatra345/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/hardikbatra345/Leetcode/tree/master/0074-search-a-2d-matrix) |
@@ -77,6 +78,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/hardikbatra345/Leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/hardikbatra345/Leetcode/tree/master/0007-reverse-integer) |
+| [0048-rotate-image](https://github.com/hardikbatra345/Leetcode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/hardikbatra345/Leetcode/tree/master/0189-rotate-array) |
 | [1370-count-number-of-nice-subarrays](https://github.com/hardikbatra345/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [2206-detonate-the-maximum-bombs](https://github.com/hardikbatra345/Leetcode/tree/master/2206-detonate-the-maximum-bombs) |
@@ -237,6 +239,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/hardikbatra345/Leetcode/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/hardikbatra345/Leetcode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/hardikbatra345/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/hardikbatra345/Leetcode/tree/master/0074-search-a-2d-matrix) |
 ## Monotonic Stack
