@@ -62,6 +62,7 @@
 | [0435-non-overlapping-intervals](https://github.com/hardikbatra345/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0496-next-greater-element-i](https://github.com/hardikbatra345/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/hardikbatra345/Leetcode/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/hardikbatra345/Leetcode/tree/master/0735-asteroid-collision) |
 | [0883-car-fleet](https://github.com/hardikbatra345/Leetcode/tree/master/0883-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/hardikbatra345/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [0966-binary-subarrays-with-sum](https://github.com/hardikbatra345/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
@@ -173,6 +174,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/hardikbatra345/Leetcode/tree/master/0735-asteroid-collision) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/hardikbatra345/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/hardikbatra345/Leetcode/tree/master/3511-find-the-winning-player-in-coin-game) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/hardikbatra345/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -198,6 +200,7 @@
 | [0496-next-greater-element-i](https://github.com/hardikbatra345/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/hardikbatra345/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/hardikbatra345/Leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0735-asteroid-collision](https://github.com/hardikbatra345/Leetcode/tree/master/0735-asteroid-collision) |
 | [0883-car-fleet](https://github.com/hardikbatra345/Leetcode/tree/master/0883-car-fleet) |
 ## Game Theory
 |  |
