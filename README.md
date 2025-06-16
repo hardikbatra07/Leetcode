@@ -123,6 +123,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/hardikbatra345/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/hardikbatra345/Leetcode/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/hardikbatra345/Leetcode/tree/master/0076-minimum-window-substring) |
+| [0402-remove-k-digits](https://github.com/hardikbatra345/Leetcode/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/hardikbatra345/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0678-valid-parenthesis-string](https://github.com/hardikbatra345/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/hardikbatra345/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -136,6 +137,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/hardikbatra345/Leetcode/tree/master/0011-container-with-most-water) |
 | [0135-candy](https://github.com/hardikbatra345/Leetcode/tree/master/0135-candy) |
+| [0402-remove-k-digits](https://github.com/hardikbatra345/Leetcode/tree/master/0402-remove-k-digits) |
 | [0435-non-overlapping-intervals](https://github.com/hardikbatra345/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/hardikbatra345/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [2379-maximum-total-importance-of-roads](https://github.com/hardikbatra345/Leetcode/tree/master/2379-maximum-total-importance-of-roads) |
@@ -200,6 +202,7 @@
 | [0225-implement-stack-using-queues](https://github.com/hardikbatra345/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/hardikbatra345/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/hardikbatra345/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0402-remove-k-digits](https://github.com/hardikbatra345/Leetcode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/hardikbatra345/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/hardikbatra345/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/hardikbatra345/Leetcode/tree/master/0678-valid-parenthesis-string) |
@@ -270,6 +273,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/hardikbatra345/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0402-remove-k-digits](https://github.com/hardikbatra345/Leetcode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/hardikbatra345/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/hardikbatra345/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0883-car-fleet](https://github.com/hardikbatra345/Leetcode/tree/master/0883-car-fleet) |
