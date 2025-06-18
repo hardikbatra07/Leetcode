@@ -107,6 +107,7 @@
 | [0073-set-matrix-zeroes](https://github.com/hardikbatra345/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/hardikbatra345/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0142-linked-list-cycle-ii](https://github.com/hardikbatra345/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/hardikbatra345/Leetcode/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/hardikbatra345/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0424-longest-repeating-character-replacement](https://github.com/hardikbatra345/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/hardikbatra345/Leetcode/tree/master/0496-next-greater-element-i) |
@@ -298,6 +299,7 @@
 | [0002-add-two-numbers](https://github.com/hardikbatra345/Leetcode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/hardikbatra345/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0142-linked-list-cycle-ii](https://github.com/hardikbatra345/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/hardikbatra345/Leetcode/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/hardikbatra345/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/hardikbatra345/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/hardikbatra345/Leetcode/tree/master/0234-palindrome-linked-list) |
@@ -307,6 +309,7 @@
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/hardikbatra345/Leetcode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/hardikbatra345/Leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/hardikbatra345/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/hardikbatra345/Leetcode/tree/master/0232-implement-queue-using-stacks) |
@@ -325,4 +328,8 @@
 |  |
 | ------- |
 | [0937-online-stock-span](https://github.com/hardikbatra345/Leetcode/tree/master/0937-online-stock-span) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/hardikbatra345/Leetcode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
