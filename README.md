@@ -110,6 +110,7 @@
 | [0146-lru-cache](https://github.com/hardikbatra345/Leetcode/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/hardikbatra345/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0424-longest-repeating-character-replacement](https://github.com/hardikbatra345/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0460-lfu-cache](https://github.com/hardikbatra345/Leetcode/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/hardikbatra345/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0966-binary-subarrays-with-sum](https://github.com/hardikbatra345/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/hardikbatra345/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -305,6 +306,7 @@
 | [0234-palindrome-linked-list](https://github.com/hardikbatra345/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/hardikbatra345/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/hardikbatra345/Leetcode/tree/master/0328-odd-even-linked-list) |
+| [0460-lfu-cache](https://github.com/hardikbatra345/Leetcode/tree/master/0460-lfu-cache) |
 | [0908-middle-of-the-linked-list](https://github.com/hardikbatra345/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 ## Design
 |  |
@@ -313,6 +315,7 @@
 | [0155-min-stack](https://github.com/hardikbatra345/Leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/hardikbatra345/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/hardikbatra345/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0460-lfu-cache](https://github.com/hardikbatra345/Leetcode/tree/master/0460-lfu-cache) |
 | [0937-online-stock-span](https://github.com/hardikbatra345/Leetcode/tree/master/0937-online-stock-span) |
 ## Queue
 |  |
@@ -332,4 +335,5 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/hardikbatra345/Leetcode/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/hardikbatra345/Leetcode/tree/master/0460-lfu-cache) |
 <!---LeetCode Topics End-->
