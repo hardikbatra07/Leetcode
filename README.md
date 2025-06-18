@@ -89,6 +89,7 @@
 | [0002-add-two-numbers](https://github.com/hardikbatra345/Leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/hardikbatra345/Leetcode/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/hardikbatra345/Leetcode/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/hardikbatra345/Leetcode/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/hardikbatra345/Leetcode/tree/master/0189-rotate-array) |
 | [1370-count-number-of-nice-subarrays](https://github.com/hardikbatra345/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [2206-detonate-the-maximum-bombs](https://github.com/hardikbatra345/Leetcode/tree/master/2206-detonate-the-maximum-bombs) |
@@ -178,6 +179,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/hardikbatra345/Leetcode/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/hardikbatra345/Leetcode/tree/master/0010-regular-expression-matching) |
+| [0050-powx-n](https://github.com/hardikbatra345/Leetcode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/hardikbatra345/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/hardikbatra345/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/hardikbatra345/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
