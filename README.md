@@ -4,6 +4,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/hardikbatra345/Leetcode/tree/master/0079-word-search) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/hardikbatra345/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/hardikbatra345/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2206-detonate-the-maximum-bombs](https://github.com/hardikbatra345/Leetcode/tree/master/2206-detonate-the-maximum-bombs) |
@@ -57,6 +58,7 @@
 | [0057-insert-interval](https://github.com/hardikbatra345/Leetcode/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/hardikbatra345/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/hardikbatra345/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/hardikbatra345/Leetcode/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/hardikbatra345/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/hardikbatra345/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/hardikbatra345/Leetcode/tree/master/0090-subsets-ii) |
@@ -134,6 +136,7 @@
 | [0020-valid-parentheses](https://github.com/hardikbatra345/Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/hardikbatra345/Leetcode/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/hardikbatra345/Leetcode/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/hardikbatra345/Leetcode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/hardikbatra345/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0402-remove-k-digits](https://github.com/hardikbatra345/Leetcode/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/hardikbatra345/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
@@ -287,6 +290,7 @@
 | [0022-generate-parentheses](https://github.com/hardikbatra345/Leetcode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/hardikbatra345/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/hardikbatra345/Leetcode/tree/master/0040-combination-sum-ii) |
+| [0079-word-search](https://github.com/hardikbatra345/Leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/hardikbatra345/Leetcode/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/hardikbatra345/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/hardikbatra345/Leetcode/tree/master/0216-combination-sum-iii) |
@@ -297,6 +301,7 @@
 | [0048-rotate-image](https://github.com/hardikbatra345/Leetcode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/hardikbatra345/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/hardikbatra345/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/hardikbatra345/Leetcode/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/hardikbatra345/Leetcode/tree/master/0085-maximal-rectangle) |
 ## Monotonic Stack
 |  |
