@@ -46,6 +46,7 @@
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/hardikbatra345/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/hardikbatra345/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/hardikbatra345/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/hardikbatra345/Leetcode/tree/master/0018-4sum) |
@@ -268,6 +269,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/hardikbatra345/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0074-search-a-2d-matrix](https://github.com/hardikbatra345/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/hardikbatra345/Leetcode/tree/master/0162-find-peak-element) |
 | [0410-split-array-largest-sum](https://github.com/hardikbatra345/Leetcode/tree/master/0410-split-array-largest-sum) |
@@ -371,4 +373,8 @@
 | ------- |
 | [0146-lru-cache](https://github.com/hardikbatra345/Leetcode/tree/master/0146-lru-cache) |
 | [0460-lfu-cache](https://github.com/hardikbatra345/Leetcode/tree/master/0460-lfu-cache) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/hardikbatra345/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
