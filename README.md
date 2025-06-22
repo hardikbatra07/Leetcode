@@ -86,6 +86,7 @@
 | [1370-count-number-of-nice-subarrays](https://github.com/hardikbatra345/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/hardikbatra345/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/hardikbatra345/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [2047-find-a-peak-element-ii](https://github.com/hardikbatra345/Leetcode/tree/master/2047-find-a-peak-element-ii) |
 | [2151-the-time-when-the-network-becomes-idle](https://github.com/hardikbatra345/Leetcode/tree/master/2151-the-time-when-the-network-becomes-idle) |
 | [2206-detonate-the-maximum-bombs](https://github.com/hardikbatra345/Leetcode/tree/master/2206-detonate-the-maximum-bombs) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/hardikbatra345/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -278,6 +279,7 @@
 | [0907-koko-eating-bananas](https://github.com/hardikbatra345/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/hardikbatra345/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/hardikbatra345/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [2047-find-a-peak-element-ii](https://github.com/hardikbatra345/Leetcode/tree/master/2047-find-a-peak-element-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -321,6 +323,7 @@
 | [0079-word-search](https://github.com/hardikbatra345/Leetcode/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/hardikbatra345/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/hardikbatra345/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [2047-find-a-peak-element-ii](https://github.com/hardikbatra345/Leetcode/tree/master/2047-find-a-peak-element-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
