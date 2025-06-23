@@ -104,6 +104,7 @@
 | [0048-rotate-image](https://github.com/hardikbatra345/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/hardikbatra345/Leetcode/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/hardikbatra345/Leetcode/tree/master/0189-rotate-array) |
+| [1303-minimum-moves-to-reach-target-score](https://github.com/hardikbatra345/Leetcode/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1370-count-number-of-nice-subarrays](https://github.com/hardikbatra345/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [2206-detonate-the-maximum-bombs](https://github.com/hardikbatra345/Leetcode/tree/master/2206-detonate-the-maximum-bombs) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/hardikbatra345/Leetcode/tree/master/3511-find-the-winning-player-in-coin-game) |
@@ -164,6 +165,7 @@
 | [0410-split-array-largest-sum](https://github.com/hardikbatra345/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/hardikbatra345/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/hardikbatra345/Leetcode/tree/master/0678-valid-parenthesis-string) |
+| [1303-minimum-moves-to-reach-target-score](https://github.com/hardikbatra345/Leetcode/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [2379-maximum-total-importance-of-roads](https://github.com/hardikbatra345/Leetcode/tree/master/2379-maximum-total-importance-of-roads) |
 ## Sorting
 |  |
