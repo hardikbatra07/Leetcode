@@ -25,6 +25,7 @@
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/hardikbatra345/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [2121-find-if-path-exists-in-graph](https://github.com/hardikbatra345/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/hardikbatra345/Leetcode/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/hardikbatra345/Leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
@@ -66,6 +67,7 @@
 | [0090-subsets-ii](https://github.com/hardikbatra345/Leetcode/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/hardikbatra345/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/hardikbatra345/Leetcode/tree/master/0119-pascals-triangle-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/hardikbatra345/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/hardikbatra345/Leetcode/tree/master/0135-candy) |
 | [0162-find-peak-element](https://github.com/hardikbatra345/Leetcode/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/hardikbatra345/Leetcode/tree/master/0189-rotate-array) |
@@ -122,6 +124,7 @@
 | [0037-sudoku-solver](https://github.com/hardikbatra345/Leetcode/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/hardikbatra345/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/hardikbatra345/Leetcode/tree/master/0076-minimum-window-substring) |
+| [0128-longest-consecutive-sequence](https://github.com/hardikbatra345/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0142-linked-list-cycle-ii](https://github.com/hardikbatra345/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/hardikbatra345/Leetcode/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/hardikbatra345/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
