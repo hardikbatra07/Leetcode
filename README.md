@@ -95,6 +95,7 @@
 | [2227-sum-of-subarray-ranges](https://github.com/hardikbatra345/Leetcode/tree/master/2227-sum-of-subarray-ranges) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/hardikbatra345/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/hardikbatra345/Leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
+| [2656-count-the-number-of-beautiful-subarrays](https://github.com/hardikbatra345/Leetcode/tree/master/2656-count-the-number-of-beautiful-subarrays) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/hardikbatra345/Leetcode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3579-maximum-possible-number-by-binary-concatenation](https://github.com/hardikbatra345/Leetcode/tree/master/3579-maximum-possible-number-by-binary-concatenation) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/hardikbatra345/Leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -137,6 +138,7 @@
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/hardikbatra345/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/hardikbatra345/Leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2455-node-with-highest-edge-score](https://github.com/hardikbatra345/Leetcode/tree/master/2455-node-with-highest-edge-score) |
+| [2656-count-the-number-of-beautiful-subarrays](https://github.com/hardikbatra345/Leetcode/tree/master/2656-count-the-number-of-beautiful-subarrays) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/hardikbatra345/Leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 ## String
 |  |
@@ -192,6 +194,7 @@
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/hardikbatra345/Leetcode/tree/master/0090-subsets-ii) |
+| [2656-count-the-number-of-beautiful-subarrays](https://github.com/hardikbatra345/Leetcode/tree/master/2656-count-the-number-of-beautiful-subarrays) |
 | [3579-maximum-possible-number-by-binary-concatenation](https://github.com/hardikbatra345/Leetcode/tree/master/3579-maximum-possible-number-by-binary-concatenation) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/hardikbatra345/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Enumeration
@@ -273,6 +276,7 @@
 | [1046-max-consecutive-ones-iii](https://github.com/hardikbatra345/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/hardikbatra345/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/hardikbatra345/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [2656-count-the-number-of-beautiful-subarrays](https://github.com/hardikbatra345/Leetcode/tree/master/2656-count-the-number-of-beautiful-subarrays) |
 ## Binary Search
 |  |
 | ------- |
