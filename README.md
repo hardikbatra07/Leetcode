@@ -105,6 +105,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/hardikbatra345/Leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/hardikbatra345/Leetcode/tree/master/0007-reverse-integer) |
+| [0029-divide-two-integers](https://github.com/hardikbatra345/Leetcode/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/hardikbatra345/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/hardikbatra345/Leetcode/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/hardikbatra345/Leetcode/tree/master/0189-rotate-array) |
@@ -194,6 +195,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/hardikbatra345/Leetcode/tree/master/0029-divide-two-integers) |
 | [0090-subsets-ii](https://github.com/hardikbatra345/Leetcode/tree/master/0090-subsets-ii) |
 | [0260-single-number-iii](https://github.com/hardikbatra345/Leetcode/tree/master/0260-single-number-iii) |
 | [2656-count-the-number-of-beautiful-subarrays](https://github.com/hardikbatra345/Leetcode/tree/master/2656-count-the-number-of-beautiful-subarrays) |
