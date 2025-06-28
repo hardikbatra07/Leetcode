@@ -160,6 +160,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/hardikbatra345/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0678-valid-parenthesis-string](https://github.com/hardikbatra345/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/hardikbatra345/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/hardikbatra345/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/hardikbatra345/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/hardikbatra345/Leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Topological Sort
@@ -176,6 +177,7 @@
 | [0435-non-overlapping-intervals](https://github.com/hardikbatra345/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/hardikbatra345/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/hardikbatra345/Leetcode/tree/master/1303-minimum-moves-to-reach-target-score) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/hardikbatra345/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2379-maximum-total-importance-of-roads](https://github.com/hardikbatra345/Leetcode/tree/master/2379-maximum-total-importance-of-roads) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/hardikbatra345/Leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Sorting
@@ -260,6 +262,7 @@
 | [0883-car-fleet](https://github.com/hardikbatra345/Leetcode/tree/master/0883-car-fleet) |
 | [0937-online-stock-span](https://github.com/hardikbatra345/Leetcode/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/hardikbatra345/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/hardikbatra345/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2227-sum-of-subarray-ranges](https://github.com/hardikbatra345/Leetcode/tree/master/2227-sum-of-subarray-ranges) |
 ## Game Theory
 |  |
@@ -314,6 +317,7 @@
 | [0189-rotate-array](https://github.com/hardikbatra345/Leetcode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/hardikbatra345/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/hardikbatra345/Leetcode/tree/master/0908-middle-of-the-linked-list) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/hardikbatra345/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/hardikbatra345/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Binary Tree
 |  |
