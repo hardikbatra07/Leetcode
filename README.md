@@ -160,6 +160,7 @@
 | [0402-remove-k-digits](https://github.com/hardikbatra345/Leetcode/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/hardikbatra345/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0678-valid-parenthesis-string](https://github.com/hardikbatra345/Leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0686-repeated-string-match](https://github.com/hardikbatra345/Leetcode/tree/master/0686-repeated-string-match) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/hardikbatra345/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/hardikbatra345/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/hardikbatra345/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -412,4 +413,8 @@
 |  |
 | ------- |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/hardikbatra345/Leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+## String Matching
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/hardikbatra345/Leetcode/tree/master/0686-repeated-string-match) |
 <!---LeetCode Topics End-->
