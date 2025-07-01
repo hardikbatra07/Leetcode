@@ -188,6 +188,7 @@
 | ------- |
 | [0015-3sum](https://github.com/hardikbatra345/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/hardikbatra345/Leetcode/tree/master/0018-4sum) |
+| [0148-sort-list](https://github.com/hardikbatra345/Leetcode/tree/master/0148-sort-list) |
 | [0435-non-overlapping-intervals](https://github.com/hardikbatra345/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0883-car-fleet](https://github.com/hardikbatra345/Leetcode/tree/master/0883-car-fleet) |
 | [2379-maximum-total-importance-of-roads](https://github.com/hardikbatra345/Leetcode/tree/master/2379-maximum-total-importance-of-roads) |
@@ -319,6 +320,7 @@
 | [0042-trapping-rain-water](https://github.com/hardikbatra345/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/hardikbatra345/Leetcode/tree/master/0061-rotate-list) |
 | [0142-linked-list-cycle-ii](https://github.com/hardikbatra345/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/hardikbatra345/Leetcode/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/hardikbatra345/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/hardikbatra345/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/hardikbatra345/Leetcode/tree/master/0189-rotate-array) |
@@ -377,6 +379,7 @@
 | [0061-rotate-list](https://github.com/hardikbatra345/Leetcode/tree/master/0061-rotate-list) |
 | [0142-linked-list-cycle-ii](https://github.com/hardikbatra345/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/hardikbatra345/Leetcode/tree/master/0146-lru-cache) |
+| [0148-sort-list](https://github.com/hardikbatra345/Leetcode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/hardikbatra345/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/hardikbatra345/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/hardikbatra345/Leetcode/tree/master/0234-palindrome-linked-list) |
@@ -416,6 +419,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/hardikbatra345/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0148-sort-list](https://github.com/hardikbatra345/Leetcode/tree/master/0148-sort-list) |
 | [0240-search-a-2d-matrix-ii](https://github.com/hardikbatra345/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Memoization
 |  |
@@ -426,4 +430,8 @@
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/hardikbatra345/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0686-repeated-string-match](https://github.com/hardikbatra345/Leetcode/tree/master/0686-repeated-string-match) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/hardikbatra345/Leetcode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
