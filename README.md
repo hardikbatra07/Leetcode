@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/hardikbatra345/Leetcode/tree/master/0079-word-search) |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/hardikbatra345/Leetcode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/hardikbatra345/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/hardikbatra345/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2206-detonate-the-maximum-bombs](https://github.com/hardikbatra345/Leetcode/tree/master/2206-detonate-the-maximum-bombs) |
@@ -386,6 +387,7 @@
 | [0237-delete-node-in-a-linked-list](https://github.com/hardikbatra345/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/hardikbatra345/Leetcode/tree/master/0328-odd-even-linked-list) |
 | [0460-lfu-cache](https://github.com/hardikbatra345/Leetcode/tree/master/0460-lfu-cache) |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/hardikbatra345/Leetcode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/hardikbatra345/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 ## Design
 |  |
@@ -415,6 +417,7 @@
 | ------- |
 | [0146-lru-cache](https://github.com/hardikbatra345/Leetcode/tree/master/0146-lru-cache) |
 | [0460-lfu-cache](https://github.com/hardikbatra345/Leetcode/tree/master/0460-lfu-cache) |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/hardikbatra345/Leetcode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
