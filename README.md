@@ -82,6 +82,7 @@
 | [0435-non-overlapping-intervals](https://github.com/hardikbatra345/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0496-next-greater-element-i](https://github.com/hardikbatra345/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/hardikbatra345/Leetcode/tree/master/0503-next-greater-element-ii) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/hardikbatra345/Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0735-asteroid-collision](https://github.com/hardikbatra345/Leetcode/tree/master/0735-asteroid-collision) |
 | [0883-car-fleet](https://github.com/hardikbatra345/Leetcode/tree/master/0883-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/hardikbatra345/Leetcode/tree/master/0907-koko-eating-bananas) |
@@ -256,6 +257,7 @@
 | [0368-largest-divisible-subset](https://github.com/hardikbatra345/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0410-split-array-largest-sum](https://github.com/hardikbatra345/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/hardikbatra345/Leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/hardikbatra345/Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/hardikbatra345/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0943-sum-of-subarray-minimums](https://github.com/hardikbatra345/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/hardikbatra345/Leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
@@ -454,4 +456,12 @@
 |  |
 | ------- |
 | [1510-find-lucky-integer-in-an-array](https://github.com/hardikbatra345/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/hardikbatra345/Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Segment Tree
+|  |
+| ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/hardikbatra345/Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
