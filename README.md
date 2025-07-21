@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/hardikbatra345/Leetcode/tree/master/0079-word-search) |
+| [0226-invert-binary-tree](https://github.com/hardikbatra345/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/hardikbatra345/Leetcode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/hardikbatra345/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/hardikbatra345/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
@@ -16,6 +17,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0226-invert-binary-tree](https://github.com/hardikbatra345/Leetcode/tree/master/0226-invert-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/hardikbatra345/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/hardikbatra345/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2151-the-time-when-the-network-becomes-idle](https://github.com/hardikbatra345/Leetcode/tree/master/2151-the-time-when-the-network-becomes-idle) |
@@ -209,6 +211,7 @@
 ## Tree
 |  |
 | ------- |
+| [0226-invert-binary-tree](https://github.com/hardikbatra345/Leetcode/tree/master/0226-invert-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/hardikbatra345/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/hardikbatra345/Leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
 ## Bit Manipulation
@@ -345,6 +348,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0226-invert-binary-tree](https://github.com/hardikbatra345/Leetcode/tree/master/0226-invert-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/hardikbatra345/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Backtracking
 |  |
