@@ -200,6 +200,7 @@
 | [0015-3sum](https://github.com/hardikbatra345/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/hardikbatra345/Leetcode/tree/master/0018-4sum) |
 | [0148-sort-list](https://github.com/hardikbatra345/Leetcode/tree/master/0148-sort-list) |
+| [0295-find-median-from-data-stream](https://github.com/hardikbatra345/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0368-largest-divisible-subset](https://github.com/hardikbatra345/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0435-non-overlapping-intervals](https://github.com/hardikbatra345/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0883-car-fleet](https://github.com/hardikbatra345/Leetcode/tree/master/0883-car-fleet) |
@@ -208,6 +209,7 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/hardikbatra345/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [0295-find-median-from-data-stream](https://github.com/hardikbatra345/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [2379-maximum-total-importance-of-roads](https://github.com/hardikbatra345/Leetcode/tree/master/2379-maximum-total-importance-of-roads) |
 ## Tree
 |  |
@@ -345,6 +347,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/hardikbatra345/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/hardikbatra345/Leetcode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/hardikbatra345/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0295-find-median-from-data-stream](https://github.com/hardikbatra345/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0908-middle-of-the-linked-list](https://github.com/hardikbatra345/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/hardikbatra345/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/hardikbatra345/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -418,6 +421,7 @@
 | [0155-min-stack](https://github.com/hardikbatra345/Leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/hardikbatra345/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/hardikbatra345/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0295-find-median-from-data-stream](https://github.com/hardikbatra345/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0460-lfu-cache](https://github.com/hardikbatra345/Leetcode/tree/master/0460-lfu-cache) |
 | [0937-online-stock-span](https://github.com/hardikbatra345/Leetcode/tree/master/0937-online-stock-span) |
 ## Queue
@@ -433,6 +437,7 @@
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/hardikbatra345/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0937-online-stock-span](https://github.com/hardikbatra345/Leetcode/tree/master/0937-online-stock-span) |
 ## Doubly-Linked List
 |  |
