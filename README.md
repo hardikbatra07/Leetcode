@@ -99,6 +99,7 @@
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/hardikbatra345/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [2047-find-a-peak-element-ii](https://github.com/hardikbatra345/Leetcode/tree/master/2047-find-a-peak-element-ii) |
 | [2151-the-time-when-the-network-becomes-idle](https://github.com/hardikbatra345/Leetcode/tree/master/2151-the-time-when-the-network-becomes-idle) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/hardikbatra345/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2206-detonate-the-maximum-bombs](https://github.com/hardikbatra345/Leetcode/tree/master/2206-detonate-the-maximum-bombs) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/hardikbatra345/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2227-sum-of-subarray-ranges](https://github.com/hardikbatra345/Leetcode/tree/master/2227-sum-of-subarray-ranges) |
@@ -149,6 +150,7 @@
 | [1370-count-number-of-nice-subarrays](https://github.com/hardikbatra345/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/hardikbatra345/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/hardikbatra345/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/hardikbatra345/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/hardikbatra345/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/hardikbatra345/Leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2455-node-with-highest-edge-score](https://github.com/hardikbatra345/Leetcode/tree/master/2455-node-with-highest-edge-score) |
@@ -177,6 +179,7 @@
 | [0686-repeated-string-match](https://github.com/hardikbatra345/Leetcode/tree/master/0686-repeated-string-match) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/hardikbatra345/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/hardikbatra345/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/hardikbatra345/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/hardikbatra345/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/hardikbatra345/Leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Topological Sort
@@ -474,6 +477,7 @@
 |  |
 | ------- |
 | [1510-find-lucky-integer-in-an-array](https://github.com/hardikbatra345/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/hardikbatra345/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Binary Indexed Tree
 |  |
 | ------- |
