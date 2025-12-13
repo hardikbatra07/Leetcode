@@ -110,6 +110,7 @@
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/hardikbatra345/Leetcode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3579-maximum-possible-number-by-binary-concatenation](https://github.com/hardikbatra345/Leetcode/tree/master/3579-maximum-possible-number-by-binary-concatenation) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/hardikbatra345/Leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [3934-coupon-code-validator](https://github.com/hardikbatra345/Leetcode/tree/master/3934-coupon-code-validator) |
 ## Math
 |  |
 | ------- |
@@ -157,6 +158,7 @@
 | [2455-node-with-highest-edge-score](https://github.com/hardikbatra345/Leetcode/tree/master/2455-node-with-highest-edge-score) |
 | [2656-count-the-number-of-beautiful-subarrays](https://github.com/hardikbatra345/Leetcode/tree/master/2656-count-the-number-of-beautiful-subarrays) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/hardikbatra345/Leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [3934-coupon-code-validator](https://github.com/hardikbatra345/Leetcode/tree/master/3934-coupon-code-validator) |
 ## String
 |  |
 | ------- |
@@ -185,6 +187,7 @@
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/hardikbatra345/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/hardikbatra345/Leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/hardikbatra345/Leetcode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
+| [3934-coupon-code-validator](https://github.com/hardikbatra345/Leetcode/tree/master/3934-coupon-code-validator) |
 ## Topological Sort
 |  |
 | ------- |
@@ -216,6 +219,7 @@
 | [0883-car-fleet](https://github.com/hardikbatra345/Leetcode/tree/master/0883-car-fleet) |
 | [2379-maximum-total-importance-of-roads](https://github.com/hardikbatra345/Leetcode/tree/master/2379-maximum-total-importance-of-roads) |
 | [2650-split-with-minimum-sum](https://github.com/hardikbatra345/Leetcode/tree/master/2650-split-with-minimum-sum) |
+| [3934-coupon-code-validator](https://github.com/hardikbatra345/Leetcode/tree/master/3934-coupon-code-validator) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
