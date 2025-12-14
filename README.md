@@ -124,6 +124,7 @@
 | [1303-minimum-moves-to-reach-target-score](https://github.com/hardikbatra345/Leetcode/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1370-count-number-of-nice-subarrays](https://github.com/hardikbatra345/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [2206-detonate-the-maximum-bombs](https://github.com/hardikbatra345/Leetcode/tree/master/2206-detonate-the-maximum-bombs) |
+| [2251-number-of-ways-to-divide-a-long-corridor](https://github.com/hardikbatra345/Leetcode/tree/master/2251-number-of-ways-to-divide-a-long-corridor) |
 | [2650-split-with-minimum-sum](https://github.com/hardikbatra345/Leetcode/tree/master/2650-split-with-minimum-sum) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/hardikbatra345/Leetcode/tree/master/3511-find-the-winning-player-in-coin-game) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/hardikbatra345/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -185,6 +186,7 @@
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/hardikbatra345/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/hardikbatra345/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/hardikbatra345/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2251-number-of-ways-to-divide-a-long-corridor](https://github.com/hardikbatra345/Leetcode/tree/master/2251-number-of-ways-to-divide-a-long-corridor) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/hardikbatra345/Leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/hardikbatra345/Leetcode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [3934-coupon-code-validator](https://github.com/hardikbatra345/Leetcode/tree/master/3934-coupon-code-validator) |
@@ -283,6 +285,7 @@
 | [0673-number-of-longest-increasing-subsequence](https://github.com/hardikbatra345/Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/hardikbatra345/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0943-sum-of-subarray-minimums](https://github.com/hardikbatra345/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
+| [2251-number-of-ways-to-divide-a-long-corridor](https://github.com/hardikbatra345/Leetcode/tree/master/2251-number-of-ways-to-divide-a-long-corridor) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/hardikbatra345/Leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Stack
 |  |
