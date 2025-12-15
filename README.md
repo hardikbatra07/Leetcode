@@ -104,6 +104,7 @@
 | [2206-detonate-the-maximum-bombs](https://github.com/hardikbatra345/Leetcode/tree/master/2206-detonate-the-maximum-bombs) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/hardikbatra345/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2227-sum-of-subarray-ranges](https://github.com/hardikbatra345/Leetcode/tree/master/2227-sum-of-subarray-ranges) |
+| [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/hardikbatra345/Leetcode/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/hardikbatra345/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/hardikbatra345/Leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2656-count-the-number-of-beautiful-subarrays](https://github.com/hardikbatra345/Leetcode/tree/master/2656-count-the-number-of-beautiful-subarrays) |
@@ -124,6 +125,7 @@
 | [1303-minimum-moves-to-reach-target-score](https://github.com/hardikbatra345/Leetcode/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1370-count-number-of-nice-subarrays](https://github.com/hardikbatra345/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [2206-detonate-the-maximum-bombs](https://github.com/hardikbatra345/Leetcode/tree/master/2206-detonate-the-maximum-bombs) |
+| [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/hardikbatra345/Leetcode/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
 | [2251-number-of-ways-to-divide-a-long-corridor](https://github.com/hardikbatra345/Leetcode/tree/master/2251-number-of-ways-to-divide-a-long-corridor) |
 | [2650-split-with-minimum-sum](https://github.com/hardikbatra345/Leetcode/tree/master/2650-split-with-minimum-sum) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/hardikbatra345/Leetcode/tree/master/3511-find-the-winning-player-in-coin-game) |
@@ -285,6 +287,7 @@
 | [0673-number-of-longest-increasing-subsequence](https://github.com/hardikbatra345/Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/hardikbatra345/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0943-sum-of-subarray-minimums](https://github.com/hardikbatra345/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
+| [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/hardikbatra345/Leetcode/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
 | [2251-number-of-ways-to-divide-a-long-corridor](https://github.com/hardikbatra345/Leetcode/tree/master/2251-number-of-ways-to-divide-a-long-corridor) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/hardikbatra345/Leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Stack
