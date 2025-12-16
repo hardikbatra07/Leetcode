@@ -14,6 +14,7 @@
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/hardikbatra345/Leetcode/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/hardikbatra345/Leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/hardikbatra345/Leetcode/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
+| [3854-maximum-profit-from-trading-stocks-with-discounts](https://github.com/hardikbatra345/Leetcode/tree/master/3854-maximum-profit-from-trading-stocks-with-discounts) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -111,6 +112,7 @@
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/hardikbatra345/Leetcode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3579-maximum-possible-number-by-binary-concatenation](https://github.com/hardikbatra345/Leetcode/tree/master/3579-maximum-possible-number-by-binary-concatenation) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/hardikbatra345/Leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [3854-maximum-profit-from-trading-stocks-with-discounts](https://github.com/hardikbatra345/Leetcode/tree/master/3854-maximum-profit-from-trading-stocks-with-discounts) |
 | [3934-coupon-code-validator](https://github.com/hardikbatra345/Leetcode/tree/master/3934-coupon-code-validator) |
 ## Math
 |  |
@@ -236,6 +238,7 @@
 | [0226-invert-binary-tree](https://github.com/hardikbatra345/Leetcode/tree/master/0226-invert-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/hardikbatra345/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/hardikbatra345/Leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
+| [3854-maximum-profit-from-trading-stocks-with-discounts](https://github.com/hardikbatra345/Leetcode/tree/master/3854-maximum-profit-from-trading-stocks-with-discounts) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -290,6 +293,7 @@
 | [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/hardikbatra345/Leetcode/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
 | [2251-number-of-ways-to-divide-a-long-corridor](https://github.com/hardikbatra345/Leetcode/tree/master/2251-number-of-ways-to-divide-a-long-corridor) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/hardikbatra345/Leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [3854-maximum-profit-from-trading-stocks-with-discounts](https://github.com/hardikbatra345/Leetcode/tree/master/3854-maximum-profit-from-trading-stocks-with-discounts) |
 ## Stack
 |  |
 | ------- |
