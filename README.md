@@ -113,6 +113,7 @@
 | [3579-maximum-possible-number-by-binary-concatenation](https://github.com/hardikbatra345/Leetcode/tree/master/3579-maximum-possible-number-by-binary-concatenation) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/hardikbatra345/Leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3854-maximum-profit-from-trading-stocks-with-discounts](https://github.com/hardikbatra345/Leetcode/tree/master/3854-maximum-profit-from-trading-stocks-with-discounts) |
+| [3892-best-time-to-buy-and-sell-stock-v](https://github.com/hardikbatra345/Leetcode/tree/master/3892-best-time-to-buy-and-sell-stock-v) |
 | [3934-coupon-code-validator](https://github.com/hardikbatra345/Leetcode/tree/master/3934-coupon-code-validator) |
 ## Math
 |  |
@@ -294,6 +295,7 @@
 | [2251-number-of-ways-to-divide-a-long-corridor](https://github.com/hardikbatra345/Leetcode/tree/master/2251-number-of-ways-to-divide-a-long-corridor) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/hardikbatra345/Leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3854-maximum-profit-from-trading-stocks-with-discounts](https://github.com/hardikbatra345/Leetcode/tree/master/3854-maximum-profit-from-trading-stocks-with-discounts) |
+| [3892-best-time-to-buy-and-sell-stock-v](https://github.com/hardikbatra345/Leetcode/tree/master/3892-best-time-to-buy-and-sell-stock-v) |
 ## Stack
 |  |
 | ------- |
