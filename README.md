@@ -115,6 +115,7 @@
 | [3854-maximum-profit-from-trading-stocks-with-discounts](https://github.com/hardikbatra345/Leetcode/tree/master/3854-maximum-profit-from-trading-stocks-with-discounts) |
 | [3892-best-time-to-buy-and-sell-stock-v](https://github.com/hardikbatra345/Leetcode/tree/master/3892-best-time-to-buy-and-sell-stock-v) |
 | [3934-coupon-code-validator](https://github.com/hardikbatra345/Leetcode/tree/master/3934-coupon-code-validator) |
+| [3980-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/hardikbatra345/Leetcode/tree/master/3980-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Math
 |  |
 | ------- |
@@ -334,6 +335,7 @@
 | [1370-count-number-of-nice-subarrays](https://github.com/hardikbatra345/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/hardikbatra345/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/hardikbatra345/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [3980-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/hardikbatra345/Leetcode/tree/master/3980-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -344,6 +346,7 @@
 | [1370-count-number-of-nice-subarrays](https://github.com/hardikbatra345/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/hardikbatra345/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2656-count-the-number-of-beautiful-subarrays](https://github.com/hardikbatra345/Leetcode/tree/master/2656-count-the-number-of-beautiful-subarrays) |
+| [3980-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/hardikbatra345/Leetcode/tree/master/3980-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Binary Search
 |  |
 | ------- |
