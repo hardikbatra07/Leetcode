@@ -97,6 +97,7 @@
 | [0907-koko-eating-bananas](https://github.com/hardikbatra345/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [0943-sum-of-subarray-minimums](https://github.com/hardikbatra345/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [0966-binary-subarrays-with-sum](https://github.com/hardikbatra345/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
+| [0981-delete-columns-to-make-sorted](https://github.com/hardikbatra345/Leetcode/tree/master/0981-delete-columns-to-make-sorted) |
 | [1046-max-consecutive-ones-iii](https://github.com/hardikbatra345/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/hardikbatra345/Leetcode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1370-count-number-of-nice-subarrays](https://github.com/hardikbatra345/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -192,6 +193,7 @@
 | [0678-valid-parenthesis-string](https://github.com/hardikbatra345/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0686-repeated-string-match](https://github.com/hardikbatra345/Leetcode/tree/master/0686-repeated-string-match) |
 | [0878-shifting-letters](https://github.com/hardikbatra345/Leetcode/tree/master/0878-shifting-letters) |
+| [0981-delete-columns-to-make-sorted](https://github.com/hardikbatra345/Leetcode/tree/master/0981-delete-columns-to-make-sorted) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/hardikbatra345/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/hardikbatra345/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/hardikbatra345/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
