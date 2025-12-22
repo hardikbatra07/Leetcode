@@ -99,6 +99,7 @@
 | [0966-binary-subarrays-with-sum](https://github.com/hardikbatra345/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [0981-delete-columns-to-make-sorted](https://github.com/hardikbatra345/Leetcode/tree/master/0981-delete-columns-to-make-sorted) |
 | [0992-delete-columns-to-make-sorted-ii](https://github.com/hardikbatra345/Leetcode/tree/master/0992-delete-columns-to-make-sorted-ii) |
+| [1000-delete-columns-to-make-sorted-iii](https://github.com/hardikbatra345/Leetcode/tree/master/1000-delete-columns-to-make-sorted-iii) |
 | [1046-max-consecutive-ones-iii](https://github.com/hardikbatra345/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/hardikbatra345/Leetcode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1370-count-number-of-nice-subarrays](https://github.com/hardikbatra345/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -196,6 +197,7 @@
 | [0878-shifting-letters](https://github.com/hardikbatra345/Leetcode/tree/master/0878-shifting-letters) |
 | [0981-delete-columns-to-make-sorted](https://github.com/hardikbatra345/Leetcode/tree/master/0981-delete-columns-to-make-sorted) |
 | [0992-delete-columns-to-make-sorted-ii](https://github.com/hardikbatra345/Leetcode/tree/master/0992-delete-columns-to-make-sorted-ii) |
+| [1000-delete-columns-to-make-sorted-iii](https://github.com/hardikbatra345/Leetcode/tree/master/1000-delete-columns-to-make-sorted-iii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/hardikbatra345/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/hardikbatra345/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/hardikbatra345/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -302,6 +304,7 @@
 | [0673-number-of-longest-increasing-subsequence](https://github.com/hardikbatra345/Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/hardikbatra345/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0943-sum-of-subarray-minimums](https://github.com/hardikbatra345/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
+| [1000-delete-columns-to-make-sorted-iii](https://github.com/hardikbatra345/Leetcode/tree/master/1000-delete-columns-to-make-sorted-iii) |
 | [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/hardikbatra345/Leetcode/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
 | [2251-number-of-ways-to-divide-a-long-corridor](https://github.com/hardikbatra345/Leetcode/tree/master/2251-number-of-ways-to-divide-a-long-corridor) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/hardikbatra345/Leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
