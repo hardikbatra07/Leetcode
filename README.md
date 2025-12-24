@@ -118,6 +118,7 @@
 | [2445-reachable-nodes-with-restrictions](https://github.com/hardikbatra345/Leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2656-count-the-number-of-beautiful-subarrays](https://github.com/hardikbatra345/Leetcode/tree/master/2656-count-the-number-of-beautiful-subarrays) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/hardikbatra345/Leetcode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
+| [3334-apple-redistribution-into-boxes](https://github.com/hardikbatra345/Leetcode/tree/master/3334-apple-redistribution-into-boxes) |
 | [3579-maximum-possible-number-by-binary-concatenation](https://github.com/hardikbatra345/Leetcode/tree/master/3579-maximum-possible-number-by-binary-concatenation) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/hardikbatra345/Leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3854-maximum-profit-from-trading-stocks-with-discounts](https://github.com/hardikbatra345/Leetcode/tree/master/3854-maximum-profit-from-trading-stocks-with-discounts) |
@@ -226,6 +227,7 @@
 | [2379-maximum-total-importance-of-roads](https://github.com/hardikbatra345/Leetcode/tree/master/2379-maximum-total-importance-of-roads) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/hardikbatra345/Leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2650-split-with-minimum-sum](https://github.com/hardikbatra345/Leetcode/tree/master/2650-split-with-minimum-sum) |
+| [3334-apple-redistribution-into-boxes](https://github.com/hardikbatra345/Leetcode/tree/master/3334-apple-redistribution-into-boxes) |
 ## Sorting
 |  |
 | ------- |
@@ -241,6 +243,7 @@
 | [2213-find-all-people-with-secret](https://github.com/hardikbatra345/Leetcode/tree/master/2213-find-all-people-with-secret) |
 | [2379-maximum-total-importance-of-roads](https://github.com/hardikbatra345/Leetcode/tree/master/2379-maximum-total-importance-of-roads) |
 | [2650-split-with-minimum-sum](https://github.com/hardikbatra345/Leetcode/tree/master/2650-split-with-minimum-sum) |
+| [3334-apple-redistribution-into-boxes](https://github.com/hardikbatra345/Leetcode/tree/master/3334-apple-redistribution-into-boxes) |
 | [3934-coupon-code-validator](https://github.com/hardikbatra345/Leetcode/tree/master/3934-coupon-code-validator) |
 ## Heap (Priority Queue)
 |  |
